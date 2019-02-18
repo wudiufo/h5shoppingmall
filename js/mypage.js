@@ -1,3 +1,11 @@
+/*
+ * @Author: haiyang
+ * @Date:   
+ * @Last Modified by:   haiyang
+ * @Last Modified time: 2018-09-25 17:23:18
+ */
+
+
 $(function() {
   let flag = false;
   let k = $(window).height();

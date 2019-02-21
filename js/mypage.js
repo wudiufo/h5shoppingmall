@@ -193,7 +193,7 @@ $(function() {
             'top': y
           });
         });
-        $('.next').fadeIn();
+        //$('.next').fadeIn();
         $('.again').click(function(e) {
           $.fn.fullpage.moveTo(1);
           $('img,.move').attr('style', '');
